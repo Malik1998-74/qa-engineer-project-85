@@ -8,11 +8,23 @@
   status: fail
 
 - summary: |
-    Проверка функциональности выхода из аккаунта
+    Социальная аутентификация через GitHub
   status: pass
 
 - summary: |
-    Создание нового батла
+    Социальная аутентификация через Discord
+  status: fail
+
+- summary: |
+    Проверка логаута из аккаунта
+  status: pass
+
+- summary: |
+    Создания игры без регистрации
+  status: pass
+
+- summary: |
+    Проверка создания игры с ботом
   status: pass
 
 - summary: |
@@ -20,7 +32,7 @@
   status: pass
 
 - summary: |
-    Участие в созданном батле
+    Проверка присоединения к созданной игре
   status: pass
 
 - summary: |
@@ -32,7 +44,7 @@
   status: pass
 
 - summary: |
-    Редактирование профиля пользователя
+    Проверка смены ника пользователя
   status: pass
 
 - summary: |
